@@ -13,4 +13,5 @@ Go é a linguagem desenvolvida pelo Google para resolver problemas da escala que
 Ele é uma das poucas linguagens que surgiu depois dos processadores com múltiplos núcleos e isso fez com que a linguagem tenha mecanismo de concorrência no cerne da linguagem, o que a torna ideal para aplicações na qual são exigidos um alto grau de desempenho.
 
 Go é uma linguagem enxuta, moderna, compilada (muito rápida), que tem vários recursos que irão te ajudar nos desafios de desenvolver uma aplicação escalável!
-# udemy-golang-cod3r-html
+
+Repositorio Base do curso [Curso Udemy - Cod3r](https://github.com/phelliperodrigues/udemy-golang-cod3r)
